@@ -14,17 +14,18 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 **SmartTMS** (Jun-Jul'19)  
 _Summer Internship_
 
-- In both my internships at SmartTMS and Portabar I handled customer relations. I fielded sales enquiries, managed orders and followed up on customer satisfaction. Navigating through issues and avoiding conflict is a skill applicable to all fields, I think it will be invaluable during potential disagreements encountered in paired programming and client interactions.
+- Handling customer relations, following up on customer satisfaction and navigating through complaints avoiding conflicts. These skills are applicable to all fields I think it will be invaluable during potential disagreements encountered in paired programming and client interactions.
+- Seeing technology alter neuronal pathways and aiding mental health disorders really motivated me to learn coding.
 
 **Portabar** (Jun-Aug'16/'17/'18)  
 _Summer Internship_
 
-- 
+- Dealing with clients, fielding sales enquiries and managing orders. 
 
 **Forensic Access** (Jul-Aug'15)  
 _Summer Internship_
 
-- Any experience relevent to software development
+- Archiving files from old cases has made me maticulous in my typing up of information. No mistakes can be made. This has been a very helpful habit to have aquired for coding.
 
 ## Skills
 
@@ -38,7 +39,7 @@ A major part of my degree was statistical analysis. I used IBM SPSS statistics t
 
 #### Team Work and Leadership
 
-I have played a lot of team sports, performed in musicals and been a member of a Jazz Band, in these activities collaboration with others achieves the best outcome for the whole project and also develops you as a person. I find working with peers is one of the best ways to learn new techniques and styles you have not eencountered before. This is essential for software development. Furthermore, I was deputy head girl of Cheltenham College, in this role I coordinated events such as our twelve-hour charity run which earnt approximately £10,000 for Meningitus Now. Overseeing and directing twenty-four of my peers has made me more confident and not afraid of taking control. This is a key skill when working in a team.
+I have performed in musicals, played many team sports and been a member of a Jazz Band, in these activities collaboration with others achieves the best outcome for the whole project and also develops you as a person. I find working with peers is one of the best ways to learn new techniques and styles you have not encountered before. This is essential for software development. Furthermore, I was deputy head girl of Cheltenham College, in this role I coordinated events such as our twelve-hour charity run which earnt approximately £10,000 for Meningitus Now. Overseeing and directing twenty-four of my peers has made me more confident and not afraid of taking control. This is a key skill when working in a team.
 
 ## Education
 
