@@ -1,6 +1,6 @@
 ## Arabella Knowles
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a highly motivated and ambitious person with strong analytical, problem solving and social skills. Keen to begin my career in full stack web development. I currently specialise in Ruby, however, I can quickly adapt and pick up another language. 
 
 ## Projects
 
@@ -30,13 +30,13 @@ _Summer Internship_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Problem Solving
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Analytical
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -55,13 +55,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### University of Bristol (Sept'17-June'20)
+**Bachelor of Science - BS, Neuroscience, 1st class honours**
 
-- BSc Neuroscience
-- 1st class honours
-- Computational Neuroscience, SPSS - syntax editor
+- Computational Neuroscience - This unit detailed how computational networks are based off and mirror neuronal signalling. It is what originally inspired me to begin coding in the first place. There is a huge overlap between neuronal firing and running a program which gives me a unique perspective when analysing code. 
+- Neurodegenative Diseases
+- The Heart in Health and Disease
+- Synaptic Cell Biology
+- I wrote my dissertation on the role of the Transferrin 2 receptor in Parkinson's disease and received the 3rd highest mark in my year.
+
+These units are all based on networks; the processes that dysfunction resulting in neurodegeneration, the looping mechanisms maintaining the heart beat and the transmission of messages across a synapse. I believe that studying these topics has made me an excellent canditate for software development. No synapse, neurodegenerative or heart disease is the same, even though the processes may be similar you have to know the different proteins, cells and mechanisms involved. Being able take in a large volume of information and separate minor details will make me good at learning new languages in short spaces of time. 
 
 #### Cheltenham College (Sept'12-June'16)
-
 **A Levels** 
 - Biology: A*
 - Maths: A*
@@ -79,3 +83,4 @@ That in some arguable way make you a better software developer or well-rounded p
 - Singing
 - Piano
 - Running
+- Hockey
