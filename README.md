@@ -1,23 +1,28 @@
-## Your Name
+## Arabella Knowles
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Arabella Knowles             | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**SmartTMS** (Jun-Jul'19)  
+_Summer Internship_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Portabar** (Jun-Aug'16/'17/'18)  
+_Summer Internship_
+
+- Any experience relevent to software development
+
+**Forensic Access** (Jul-Aug'15)
+_Summer Internship_
 
 - Any experience relevent to software development
 
@@ -42,18 +47,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept'20-Dec'20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (Sept'17-June'20)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Neuroscience
+- 1st class honours
+- Computational Neuroscience, SPSS - syntax editor
+
+#### Cheltenham College (Sept'12-June'16)
+
+**A Levels** 
+- Biology: A*
+- Maths: A*
+- Chemistry: A
+
+**GSCEs**
+- 7A*'s, 3A's
 
 #### Any other qualifications
 
@@ -61,4 +76,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Singing
+- Piano
+- Running
