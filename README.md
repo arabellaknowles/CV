@@ -14,21 +14,19 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 **SmartTMS** (Jun-Jul'19)  
 _Summer Internship_
 
-- Any experience relevent to software development
+- In both my internships at SmartTMS and Portabar I handled customer relations. I fielded sales enquiries, managed orders and followed up on customer satisfaction. Navigating through issues and avoiding conflict is a skill applicable to all fields, I think it will be invaluable during potential disagreements encountered in paired programming and client interactions.
 
 **Portabar** (Jun-Aug'16/'17/'18)  
 _Summer Internship_
 
-- Any experience relevent to software development
+- 
 
-**Forensic Access** (Jul-Aug'15)
+**Forensic Access** (Jul-Aug'15)  
 _Summer Internship_
 
 - Any experience relevent to software development
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Problem Solving
 
@@ -37,6 +35,10 @@ Throughout my life I have always loved problem solving, whether it was doing mat
 #### Analytical
 
 A major part of my degree was statistical analysis. I used IBM SPSS statistics to manipulate and analyse large datasets, looking for trends and abnormalities within the results. This required focus and attention to detail. Different statistical tests can have different outputs and different assumptions. It is about taking into account all the information provided to generate a well informed assessment. I received 80% in my final year exam. 
+
+#### Team Work and Leadership
+
+I have played a lot of team sports, performed in musicals and been a member of a Jazz Band, in these activities collaboration with others achieves the best outcome for the whole project and also develops you as a person. I find working with peers is one of the best ways to learn new techniques and styles you have not eencountered before. This is essential for software development. Furthermore, I was deputy head girl of Cheltenham College, in this role I coordinated events such as our twelve-hour charity run which earnt approximately £10,000 for Meningitus Now. Overseeing and directing twenty-four of my peers has made me more confident and not afraid of taking control. This is a key skill when working in a team.
 
 ## Education
 
