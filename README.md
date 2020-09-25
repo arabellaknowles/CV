@@ -8,34 +8,35 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Student Directory](https://github.com/arabellaknowles/student-directory)** | A webapp to manage a list of students | Ruby              | 
 
 ## Experience
 
 **SmartTMS** (Jun-Jul'19)  
 _Summer Internship_
 
-- Handling customer relations, following up on customer satisfaction and navigating through complaints avoiding conflicts. These skills are applicable to all fields and will be invaluable during potential disagreements encountered in paired programming and client interactions.
+- Handling customer relations, following up on customer satisfaction and navigating through complaints, avoiding conflicts. These skills are applicable to all fields and will be invaluable during potential disagreements encountered in paired programming and client interactions.
 - Seeing technology alter neuronal pathways and aiding mental health disorders really motivated me to learn coding.
 
 **Portabar** (Jun-Aug'16/'17/'18)  
 _Summer Internship_
 
-- Dealing with clients, fielding sales enquiries and managing orders elevated my time management skills. This has been extremely useful when working on software development projects. I have developed a very efficient work ethic and know when to take a step back from work and refresh my brain.
+- Dealing with clients, fielding sales enquiries and managing orders. This internship really elevated my time management skills. This has been extremely useful when working on software development projects. I have developed a very efficient work ethic and know when to take a step back from work and refresh my brain.
 
 **Forensic Access** (Jul-Aug'15)  
 _Summer Internship_
 
-- Archiving files from police cases has made me meticulous in my typing up of information. No mistakes can be made. This has been a very helpful habit to have honed for coding.
+- Archiving files from police cases. This made me meticulous in my typing up of information. No mistakes can be made. This has been a very helpful habit to have honed for coding.
 
 ## Skills
 
 #### Problem Solving
 
-- Throughout my life I have always loved problem solving, whether it was doing maths at school or suduko puzzles. I thrive off challenges, so when something is wrong, I enjoy trying to uncover the error and correct it. In my degree I would be presented with a list of symptoms and have to work out which neurone or mechanism was dysfunctioning and the cause behind it. In a similar way to debugging a code; follow the error messages and identifying the mistake.
+- Throughout my life I have always loved problem solving, whether it was doing maths A-level or suduko puzzles. I thrive off challenges, so when something is wrong, I enjoy trying to uncover the error and correct it. When I studied neuroscience at the University of Bristol, I would be presented with a list of symptoms and have to work out which neurone or mechanism was dysfunctioning and the cause behind it. This process is very similar to debugging a code; follow the error messages and identify the mistake.
 
 #### Analytical
 
-- A major part of my degree was statistical analysis. I used IBM SPSS statistics to manipulate and analyse large datasets, looking for trends and abnormalities within the results. This required extreme focus and attention to detail. Different statistical tests can have different outputs and different assumptions. It is about taking into account all the information provided to generate a well informed assessment. I received 80% in my final year exam. 
+- A major part of my degree was statistical analysis. I used IBM SPSS statistics to manipulate and analyse large datasets, looking for trends and abnormalities within the results. This required extreme focus and attention to detail. It is important to perform multiple tests as different statistical tests can have different assumptions and outputs. Once all the tests are complete it is about taking into account all the information provided to generate a well informed assessment of the given dataset. I received 80% in my final year exam. 
 
 #### Team Work and Leadership
 
