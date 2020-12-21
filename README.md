@@ -4,11 +4,11 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 
 ## Projects
 
-| Arabella Knowles             | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-| **[Student Directory](https://github.com/arabellaknowles/student-directory)** | A webapp to manage a list of students | Ruby              | 
+| Arabella Knowles                                       | Description                        | Tech/tools        |
+| ------------------------------------------------------ | ---------------------------------- | ----------------- |
+| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),  [Frontend repository](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market | React, Javascript, Python, Django |
+| **[Chitter](https://github.com/arabellaknowles/chitter-challenge)** | A twitter clone, where users can make, update and delete posts | Ruby, RSpec |
+| **[News App](https://github.com/arabellaknowles/news-summary-challenge)** | A webapp that lists and links the 10 most recent stories from the guardian with their images. Tested with my own testing library | Javascript | 
 
 ## Experience
 
@@ -49,12 +49,12 @@ _Summer Internship_
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Django
+- RSpec, Jasmine, Jest, Cypress
 
 #### University of Bristol (Sept'17-June'20)
-###### Bachelor of Science - BS, Neuroscience, 1st class honours
-
+###### Bachelor of Science - BS, Neuroscience, 1st class honours  
+**Units:**  
 - Computational Neuroscience - This unit detailed how computational networks are based off and mirror neuronal signalling. It is what originally inspired me to begin coding. There is a huge overlap between neuronal firing and running a program, which gives me a unique perspective when analysing code. 
 - My dissertation investigated the role of Transferrin receptor 2 in mitochondrial dysfunction in Parkinson's disease. I received the 3rd highest mark in my year.
 - Statistics - In this unit I manipulated the output of specific tables and graphs by using the syntax editor.
@@ -75,8 +75,6 @@ These units are all based on networks; the processes that dysfunction resulting 
 - 7A*'s, 3A's
 
 ## Hobbies
-
 - Singing
 - Piano
 - Running
-- Hockey
