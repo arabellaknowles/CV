@@ -6,7 +6,7 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 
 | Arabella Knowles                                       | Description                        | Tech/tools        |
 | ------------------------------------------------------ | ---------------------------------- | ----------------- |
-| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),  [Frontend repository](https://github.com/Oli-Le-Maire/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market | React, Javascript, Python, Django |
+| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),  [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market | React, Javascript, Python, Django |
 | **[Chitter](https://github.com/arabellaknowles/chitter-challenge)** | A twitter clone, where users can make, update and delete posts | Ruby, RSpec |
 | **[News App](https://github.com/arabellaknowles/news-summary-challenge)** | A webapp that lists and links the 10 most recent stories from the guardian with their images. Tested with my own testing library | Javascript | 
 
