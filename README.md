@@ -62,7 +62,7 @@ _Summer Internship_
 - The Heart in Health and Disease
 - Synaptic Cell Biology
 
-These units are all based on networks; the processes that dysfunction resulting in neurodegeneration, the looping mechanisms maintaining the heart beat and the transmission of messages across a synapse. I believe that studying these topics has made me an excellent canditate for software development. No synapse, neurodegenerative or heart disease is the same, even though the processes may be similar you have to know the different proteins, cells and mechanisms involved. Being able take in a large volume of information and separate minor details makes me good at learning new languages in short spaces of time. 
+These units are all based on networks; the processes that dysfunction resulting in neurodegeneration, the looping mechanisms maintaining the heart beat and the transmission of messages across a synapse. I believe that studying these topics has made me an excellent candidate for software development. No synapse, neurodegenerative or heart disease is the same, even though the processes may be similar you have to know the different proteins, cells and mechanisms involved. Being able take in a large volume of information and separate minor details makes me good at learning new languages in short spaces of time. 
 
 #### Cheltenham College (Sept'12-June'16)
 
