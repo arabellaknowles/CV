@@ -1,13 +1,13 @@
 ## Arabella Knowles
 
-I am a highly motivated and ambitious person with strong analytical, problem solving and software development skills. Keen to begin my career in full stack web development. I currently specialise in Ruby and JavaScript, however, I can quickly adapt and pick up another language. 
+I am a highly motivated and ambitious person with strong analytical, problem solving and software development skills. Keen to begin my career in full-stack web development. I currently specialise in Ruby and JavaScript, however, I can quickly adapt and pick up another language. 
 
 ## Projects
 
 | Arabella Knowles                                       | Description                        | Tech/tools        |
 | ------------------------------------------------------ | ---------------------------------- | ----------------- |
-| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),  [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market | Python, Django, SQLite, React.js, JavaScript, HTML, CSS |
-| **[Chitter](https://github.com/arabellaknowles/chitter-app)** | A twitter clone webapp | Ruby, Sinatra, RSpec, Capybara HTML, CSS, Postgresql |
+| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),    [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market. | Python, Django, SQLite, React.js, JavaScript, HTML, CSS |
+| **[Chitter](https://github.com/arabellaknowles/chitter-app)** | A twitter clone webapp. | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Postgresql |
 | **[News App](https://github.com/arabellaknowles/news-summary-challenge)** | A static webapp that lists the 10 most recent Guardian headlines and images, linking to the article body. Tested with my own testing library. | JavaScript, HTML, CSS | 
 
 ## Experience
@@ -32,7 +32,7 @@ _Summer Internship_
 
 #### Problem Solving
 
-- When I studied neuroscience at the University of Bristol, I would be presented with a list of symptoms and have to work out which neurone or mechanism was dysfunctioning and the cause behind it. This process is very similar to debugging a code; follow the error messages and identify the mistake.
+- When I studied Neuroscience at the University of Bristol, I would be presented with a list of symptoms and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. This process is very similar to debugging a code; follow the error messages and identify the mistake.
 
 #### Analytical
 
@@ -44,23 +44,37 @@ _Summer Internship_
 
 ## Education
 
-#### Makers Academy (Sept'20-Dec'20)
-
-- OOP, TDD, MVC, DDD
+### Makers Academy (Sept'20-Dec'20)
+###### Principles Learnt
+- Object orientated programming 
+- Test-driven development 
+- MVC 
 - Agile/XP
-- Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, Postgresql, Travis & Heroku.
-- RSpec, Capybara, Jasmine, Jest, Cypress
+- Continuous integration, encapsulation, single responsibility principle.
 
-#### University of Bristol (Sept'17-June'20)
+###### Technologies 
+*Confident with:*
+- Ruby, Sinatra, Rails, RSpec, Capybara
+- JavaScript, React.js, Jasmine
+- Postgresql
+- HTML, CSS
+- Git
+
+*Experience with:*
+- Python, Django
+- Travis, Heroku, Rake
+- Jest, Cypress
+
+### University of Bristol (Sept'17-June'20)
 ###### Bachelor of Science - BS, Neuroscience, 1st class honours  
 **Units:**  
-- Dissertation - I investigated the role of Transferrin receptor 2 upregulation in mitochondrial dysfunction in Parkinson's disease. I received the 3rd highest mark in my year.
-- Statistics
-- Neurological and Psychiatric Disorders 
-- The Heart in Health and Disease
-- Synaptic Cell Biology
+- Dissertation (83%) - I investigated the role of Transferrin receptor 2 upregulation in mitochondrial dysfunction in Parkinson's disease. I received the 3rd highest mark in my year.
+- Statistics (80%)
+- Neurological and Psychiatric Disorders (74%)
+- The Heart in Health and Disease (73%)
+- Synaptic Cell Biology (65%)
 
-#### Cheltenham College (Sept'12-June'16)
+### Cheltenham College (Sept'12-June'16)
 
 ###### A Levels
 - Biology: A*
