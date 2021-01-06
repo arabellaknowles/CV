@@ -1,22 +1,20 @@
 ## Arabella Knowles
 
-I am a highly motivated and ambitious person with strong analytical, problem solving and software development skills. Keen to begin my career in full-stack web development. I currently specialise in Ruby and JavaScript, however, I can quickly adapt and pick up another language. 
+I am a highly ambitious, energetic self-starter with strong problem solving, analytical and software development skills. I currently specialise in Ruby and JavaScript, however, I can quickly adapt and pick up any other language. 
 
 ## Projects
 
 | Arabella Knowles                                       | Description                        | Tech/tools        |
 | ------------------------------------------------------ | ---------------------------------- | ----------------- |
-| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),    [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that enables users to create mock portfolios and make investments in historical shares in the stock market. | Python, Django, SQLite, React.js, JavaScript, HTML, CSS |
+| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),    [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that provides a financial newsfeed and enables users to create mock portfolios and make investments in historical shares in the stock market. | Python, Django, SQLite, React.js, JavaScript, HTML, CSS |
 | **[Chitter](https://github.com/arabellaknowles/chitter-app)** | A twitter clone webapp. | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Postgresql |
 | **[News App](https://github.com/arabellaknowles/news-summary-challenge)** | A static webapp that lists the 10 most recent Guardian headlines and images, linking to the article body. Tested with my own testing library. | JavaScript, HTML, CSS | 
 
 ## Education
 
 #### Makers Academy (Sept'20-Dec'20)
-##### Principles Learnt
-- Object orientated programming 
-- Test-driven development 
-- MVC 
+##### Computer Science Principles
+- Object orientated programming, test-driven development, MVC 
 - Agile/XP
 - Continuous integration, encapsulation, single responsibility principle.
 
@@ -34,8 +32,8 @@ I am a highly motivated and ambitious person with strong analytical, problem sol
 - Jest, Cypress
 
 #### University of Bristol (Sept'17-June'20)
-###### Bachelor of Science - BS, Neuroscience, 1st class honours  
-**Units:**  
+##### Bachelor of Science - BS, Neuroscience, 1st class honours  
+###### Units
 - Dissertation (83%) - I investigated the role of Transferrin receptor 2 upregulation in mitochondrial dysfunction in Parkinson's disease. I received the 3rd highest mark in my year.
 - Statistics (80%)
 - Neurological and Psychiatric Disorders (74%)
@@ -74,7 +72,7 @@ _Summer Internship_
 
 #### Problem Solving
 
-- When I studied Neuroscience at the University of Bristol, I would be presented with a list of symptoms and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. This process is very similar to debugging a code; follow the error messages and identify the mistake.
+- When I studied Neuroscience at the University of Bristol, I would be presented with a list of symptoms and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. This skill is transferable to coding as the process is very similar to debugging a code; follow the error messages and identify the mistake.
 
 #### Analytical
 
