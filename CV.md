@@ -1,13 +1,14 @@
-## Arabella Knowles
+<h1 align=center> Arabella Knowles </h1>
 
-I am a highly ambitious, energetic self-starter with strong problem solving, analytical and software development skills. I currently specialise in Ruby and JavaScript, however, I can quickly adapt and pick up any other language. 
+I am a highly ambitious, energetic junior software developer with strong problem solving, analytical and mathematical skills. I am a 2020 graduate from the University of Bristol, with a 1st class honours in Neuroscience (BSc).  I currently specialise in Ruby and JavaScript and can quickly and efficiently learn new technologies. 
 
 ## Projects
 
 | Arabella Knowles                                       | Description                        | Tech/tools        |
 | ------------------------------------------------------ | ---------------------------------- | ----------------- |
-| **London Mock Exchange:**  [Backend repository](https://github.com/arabellaknowles/london-mock-exchange-backend),    [Frontend repository](https://github.com/arabellaknowles/london-mock-exchange-frontend)| A static webapp that provides a financial newsfeed and enables users to create mock portfolios and make investments in historical shares in the stock market. | Python, Django, SQLite, React.js, JavaScript, HTML, CSS |
-| **[Chitter](https://github.com/arabellaknowles/chitter-app)** | A twitter clone webapp. | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Postgresql |
+| **London Mock Exchange:**  [Backend API](https://github.com/arabellaknowles/london-mock-exchange-backend),    [Frontend UI](https://github.com/arabellaknowles/london-mock-exchange-frontend)| Group project: we created a static webapp that provides a financial newsfeed and enables users to create mock portfolios and make investments in historical shares in the stock market. | Python, Django, SQLite, React.js, JavaScript, HTML, CSS, Bootstrap |
+| **Acebook:** [Backend API](https://github.com/arabellaknowles/acebook-backend),   [Frontend UI](https://github.com/arabellaknowles/acebook-frontend),    [Live website](https://acebook-frontend-six.vercel.app/) | Group project: we created a Facebook clone static webapp, with a Rails API and a React.js user interface. | Rails, React.js, Travis, Heroku, JSON and JWT | 
+| **[Chitter](https://github.com/arabellaknowles/chitter-app)** | A twitter clone Ruby full-stack webapp. Authentication and database interactions both built by me. | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Postgresql |
 | **[News App](https://github.com/arabellaknowles/news-summary-challenge)** | A static webapp that lists the 10 most recent Guardian headlines and images, linking to the article body. Tested with my own testing library. | JavaScript, HTML, CSS | 
 
 ## Education
