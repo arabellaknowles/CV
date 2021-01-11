@@ -1,7 +1,7 @@
 <h1 align=center> Arabella Knowles </h1>
 <h4 align=center><a href='https://www.linkedin.com/in/arabella-knowles-7bb0811b6/'>LinkedIn</a> </h4>
 
-I am a highly ambitious, energetic junior software developer with strong problem solving, analytical and mathematical skills. I am a 2020 graduate from the University of Bristol, with a 1st class honours in Neuroscience (BSc).  I currently specialise in Ruby and JavaScript and can quickly and efficiently learn new technologies. 
+I am a highly ambitious, energetic junior software developer with strong problem solving, analytical and mathematical skills. I am a 2020 graduate from Makers Academy and the University of Bristol, with a 1st class honours in Neuroscience (BSc).  I currently specialise in Ruby and JavaScript and can quickly and efficiently learn new technologies. 
 
 ## Projects
 
