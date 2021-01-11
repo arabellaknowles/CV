@@ -22,13 +22,10 @@ I am a highly ambitious, energetic junior software developer with strong problem
 ## Education
 
 #### Makers Academy (Sept'20-Dec'20)
-- Created full stack webapps, frontend user interfaces and backend APIs; independently and in group projects.
-- Honed computer science principles to ensure good code readability and efficacy.
-
-##### Computer Science Principles
+##### Computer Science Principles Learnt
 - OOP, TDD, Agile/XP, CI, encapsulation, SRP, MVC, abstraction, inheritance
 
-##### Technologies 
+##### Technologies Learnt
 ###### *Confident with:*
 - Ruby, Sinatra, Rails, RSpec, Capybara
 - JavaScript, React.js, Jasmine
