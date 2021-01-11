@@ -1,5 +1,12 @@
 <h1 align=center> Arabella Knowles </h1>
-<h4 align=center><a href='https://www.linkedin.com/in/arabella-knowles-7bb0811b6/'>LinkedIn</a> </h4>
+<h4 align=center>
+  <a href='https://www.linkedin.com/in/arabella-knowles-7bb0811b6/'>LinkedIn</a> | 
+  <a href='#projects'>Projects</a> | 
+  <a href='#education'>Education</a> | 
+  <a href='#work-experience'>Work Experience</a> | 
+  <a href='#skills'>Skills</a> | 
+  <a href='#interests'>Interests</a>
+</h4>
 
 I am a highly ambitious, energetic junior software developer with strong problem solving, analytical and mathematical skills. I am a 2020 graduate from Makers Academy and the University of Bristol, with a 1st class honours in Neuroscience (BSc).  I currently specialise in Ruby and JavaScript and can quickly and efficiently learn new technologies. 
 
@@ -75,7 +82,7 @@ _Summer Internship_
 
 #### Problem Solving
 
-- When I studied Neuroscience, I would be presented with a list of symptoms or data and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. From this I have developed a methodolical approach to breaking down and solving large problems. This skill has been instrumental when tackling large client requirements in software development projects and in debugging a code.
+- When I studied Neuroscience, I would be presented with a list of symptoms or data and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. From this I have developed a methodological approach to breaking down and solving large problems. This skill has been instrumental when tackling large client requirements in software development projects and in debugging a code.
 
 #### Analytical
 
