@@ -23,7 +23,8 @@ I am an energetic, ambitious junior software engineer with strong problem solvin
 
 #### Makers Academy (Sept'20-Dec'20)
 ##### Computer Science Principles Learnt
-- OOP, TDD, Agile/XP, CI, encapsulation, SRP, MVC, abstraction, inheritance
+- TDD, Agile/XP, CI, SRP
+- OOP, abstraction, inheritance, encapsulation, MVC
 
 ##### Technologies Learnt
 ###### *Confident with:*
@@ -41,7 +42,7 @@ I am an energetic, ambitious junior software engineer with strong problem solvin
 #### University of Bristol (Sept'17-Jun'20)
 ##### Bachelor of Science - BS, Neuroscience, 1st class honours  
 ###### Units
-- Dissertation (83%) - I investigated the role of Transferrin receptor 2 upregulation in mitochondrial dysfunction in Parkinson's disease. I received the 3rd highest mark in my year.
+- Dissertation (83%)
 - Statistics (80%)
 - Neurological and Psychiatric Disorders (74%)
 - The Heart in Health and Disease (73%)
