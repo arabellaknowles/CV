@@ -8,7 +8,7 @@
   <a href='#interests'>Interests</a>
 </h4>
 
-I am an energetic, ambitious junior software engineer with strong problem solving, analytical and mathematical skills. My interest in software development sparked during my Neuroscience degree when manipulating the output of an SPSS statistical test by using the syntax editor. It inspired me to do the Coding for Girls Python course, which led me to join Makers Academy, a coding bootcamp. In just four months I have gone from creating basic Ruby methods to building webapps using multiple different languages, libraries and frameworks. Majority created with tests, relational databases and styling. I currently specialise in Ruby and Javascript and I can quickly and effectively pick-up new technologies. I thrive off an information heavy, high intensity working environment and cannot wait to begin my career in software development.
+I am an energetic, ambitious junior software engineer with strong problem solving, analytical and mathematical skills. My interest in software development was sparked during my Neuroscience degree when manipulating the output of an SPSS statistical test by using the syntax editor. It inspired me to do the Coding for Girls Python course, which led me to join Makers Academy, a coding bootcamp. In just four months I have gone from creating basic Ruby methods to building webapps using multiple different languages, libraries and frameworks. Majority created with tests, relational databases and styling. I currently specialise in Ruby and Javascript and I can quickly and effectively pick-up new technologies. I thrive off an information heavy, high intensity working environment and cannot wait to begin my career in software development.
 
 ## Projects
 
@@ -63,12 +63,12 @@ I am an energetic, ambitious junior software engineer with strong problem solvin
 _Summer Internship_
 
 - Enhanced research and analysis skills by writing a research paper on how their Transcranial Magnetic Stimulation technology alters neurological pathways.
-- Managed customer relations, gathered feedback and navigated through complaints. These communication skills have proved invaluable when leading software development team projects.
+- Developed strong communicatory skills when managing customer relations, gathering feedback and navigating through complaints. 
 
 **Portabar** (Jun-Aug'16/'17/'18)  
 _Data Analyst Internship_
 
-- Increased client interactions by altering website and social media presentation, based on social media statistics and website analytics. This has boosted my understanding of client needs when designing websites.
+- Increased client interactions by altering website and social media presentation, based on social media statistics and website analytics.
 
 **Forensic Access** (Jul-Aug'15)  
 _Summer Internship_
@@ -83,7 +83,7 @@ _Summer Internship_
 
 #### Analytical
 
-- A major part of my degree was statistical analysis. I used IBM SPSS statistics to manipulate and analyse large datasets, looking for trends and abnormalities within the results. This required extreme focus and attention to detail. I received 80% in my final year statistics exam. 
+- A major part of my degree was statistical analysis. I used IBM SPSS statistics to manipulate and analyse large datasets, looking for trends and abnormalities within the results. I attained 80% in my final year statistics exam. 
 
 #### Team Work
 
