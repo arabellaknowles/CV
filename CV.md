@@ -8,7 +8,7 @@
   <a href='#interests'>Interests</a>
 </h4>
 
-I am an energetic, ambitious junior software engineer with strong problem solving, analytical and mathematical skills. My interest in software development was sparked during my Neuroscience degree when manipulating the output of an SPSS statistical test by using the syntax editor. It inspired me to do the Coding for Girls Python course, which led me to join Makers Academy, a coding bootcamp. In just four months I have gone from creating basic Ruby methods to building webapps using multiple different languages, libraries and frameworks. Majority created with tests, relational databases and styling. I currently specialise in Ruby and Javascript and I can quickly and effectively pick-up new technologies. I thrive off an information heavy, high intensity working environment and cannot wait to begin my career in software development.
+I am an energetic, ambitious junior software engineer with strong problem solving, analytical and mathematical skills. My interest in software development was sparked during my Neuroscience degree when manipulating the output of an SPSS statistical test by altering the code in the syntax editor. It inspired me to do the Coding for Girls Python course, which led me to join Makers Academy, a coding bootcamp. In just four months I have gone from creating basic Ruby methods to building webapps using multiple different languages, libraries and frameworks. Majority created with tests, relational databases and styling. I currently specialise in Ruby and Javascript and I can quickly and effectively pick-up new technologies. I thrive off an information heavy, high intensity working environment and cannot wait to begin my career in software development.
 
 ## Projects
 
