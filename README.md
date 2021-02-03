@@ -80,7 +80,7 @@ _Summer Internship_
 
 #### Problem Solving
 
-- When I studied Neuroscience, I would be presented with a list of symptoms or data and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. From this I have developed a methodological approach to breaking down and solving large problems. This skill has been instrumental when tackling large client requirements in software development projects and in debugging a code.
+- When I studied Neuroscience, I would be presented with a list of symptoms or data and have to uncover which neurone or mechanism was dysfunctioning and the cause behind it. From this I have developed a methodological approach to breaking down and solving large problems. This skill has been instrumental when tackling large client requirements in software development projects and in debugging code.
 
 #### Analytical
 
